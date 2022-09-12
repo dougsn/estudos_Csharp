@@ -1,0 +1,15 @@
+C:\Users\dnascimento\estudoC#\Classe_Csharp\Classe_Csharp\bin\Debug\net6.0\Classe_Csharp.exe
+C:\Users\dnascimento\estudoC#\Classe_Csharp\Classe_Csharp\bin\Debug\net6.0\Classe_Csharp.deps.json
+C:\Users\dnascimento\estudoC#\Classe_Csharp\Classe_Csharp\bin\Debug\net6.0\Classe_Csharp.runtimeconfig.json
+C:\Users\dnascimento\estudoC#\Classe_Csharp\Classe_Csharp\bin\Debug\net6.0\Classe_Csharp.dll
+C:\Users\dnascimento\estudoC#\Classe_Csharp\Classe_Csharp\bin\Debug\net6.0\Classe_Csharp.pdb
+C:\Users\dnascimento\estudoC#\Classe_Csharp\Classe_Csharp\obj\Debug\net6.0\Classe_Csharp.csproj.AssemblyReference.cache
+C:\Users\dnascimento\estudoC#\Classe_Csharp\Classe_Csharp\obj\Debug\net6.0\Classe_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnascimento\estudoC#\Classe_Csharp\Classe_Csharp\obj\Debug\net6.0\Classe_Csharp.AssemblyInfoInputs.cache
+C:\Users\dnascimento\estudoC#\Classe_Csharp\Classe_Csharp\obj\Debug\net6.0\Classe_Csharp.AssemblyInfo.cs
+C:\Users\dnascimento\estudoC#\Classe_Csharp\Classe_Csharp\obj\Debug\net6.0\Classe_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\dnascimento\estudoC#\Classe_Csharp\Classe_Csharp\obj\Debug\net6.0\Classe_Csharp.dll
+C:\Users\dnascimento\estudoC#\Classe_Csharp\Classe_Csharp\obj\Debug\net6.0\refint\Classe_Csharp.dll
+C:\Users\dnascimento\estudoC#\Classe_Csharp\Classe_Csharp\obj\Debug\net6.0\Classe_Csharp.pdb
+C:\Users\dnascimento\estudoC#\Classe_Csharp\Classe_Csharp\obj\Debug\net6.0\Classe_Csharp.genruntimeconfig.cache
+C:\Users\dnascimento\estudoC#\Classe_Csharp\Classe_Csharp\obj\Debug\net6.0\ref\Classe_Csharp.dll
