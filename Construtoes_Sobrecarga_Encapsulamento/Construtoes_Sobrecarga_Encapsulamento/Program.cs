@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 using System.Globalization;
 
@@ -37,3 +38,6 @@ namespace Construtoes_Sobrecarga_Encapsulamento {
         }
     }
 }
+=======
+﻿Console.WriteLine("Hello, World!");
+>>>>>>> 033455abc37c8486fd3f1b45d2da0dfd76dd8c03
