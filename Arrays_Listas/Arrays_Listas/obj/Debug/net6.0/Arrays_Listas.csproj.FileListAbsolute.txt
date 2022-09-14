@@ -1,0 +1,15 @@
+C:\Users\dnascimento\estudoC#\Arrays_Listas\Arrays_Listas\bin\Debug\net6.0\Arrays_Listas.exe
+C:\Users\dnascimento\estudoC#\Arrays_Listas\Arrays_Listas\bin\Debug\net6.0\Arrays_Listas.deps.json
+C:\Users\dnascimento\estudoC#\Arrays_Listas\Arrays_Listas\bin\Debug\net6.0\Arrays_Listas.runtimeconfig.json
+C:\Users\dnascimento\estudoC#\Arrays_Listas\Arrays_Listas\bin\Debug\net6.0\Arrays_Listas.dll
+C:\Users\dnascimento\estudoC#\Arrays_Listas\Arrays_Listas\bin\Debug\net6.0\Arrays_Listas.pdb
+C:\Users\dnascimento\estudoC#\Arrays_Listas\Arrays_Listas\obj\Debug\net6.0\Arrays_Listas.csproj.AssemblyReference.cache
+C:\Users\dnascimento\estudoC#\Arrays_Listas\Arrays_Listas\obj\Debug\net6.0\Arrays_Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnascimento\estudoC#\Arrays_Listas\Arrays_Listas\obj\Debug\net6.0\Arrays_Listas.AssemblyInfoInputs.cache
+C:\Users\dnascimento\estudoC#\Arrays_Listas\Arrays_Listas\obj\Debug\net6.0\Arrays_Listas.AssemblyInfo.cs
+C:\Users\dnascimento\estudoC#\Arrays_Listas\Arrays_Listas\obj\Debug\net6.0\Arrays_Listas.csproj.CoreCompileInputs.cache
+C:\Users\dnascimento\estudoC#\Arrays_Listas\Arrays_Listas\obj\Debug\net6.0\Arrays_Listas.dll
+C:\Users\dnascimento\estudoC#\Arrays_Listas\Arrays_Listas\obj\Debug\net6.0\refint\Arrays_Listas.dll
+C:\Users\dnascimento\estudoC#\Arrays_Listas\Arrays_Listas\obj\Debug\net6.0\Arrays_Listas.pdb
+C:\Users\dnascimento\estudoC#\Arrays_Listas\Arrays_Listas\obj\Debug\net6.0\Arrays_Listas.genruntimeconfig.cache
+C:\Users\dnascimento\estudoC#\Arrays_Listas\Arrays_Listas\obj\Debug\net6.0\ref\Arrays_Listas.dll
