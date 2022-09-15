@@ -1,0 +1,15 @@
+C:\Users\dnascimento\estudoC#\Enum_Composicao\Enum_Composicao\bin\Debug\net6.0\Enum_Composicao.exe
+C:\Users\dnascimento\estudoC#\Enum_Composicao\Enum_Composicao\bin\Debug\net6.0\Enum_Composicao.deps.json
+C:\Users\dnascimento\estudoC#\Enum_Composicao\Enum_Composicao\bin\Debug\net6.0\Enum_Composicao.runtimeconfig.json
+C:\Users\dnascimento\estudoC#\Enum_Composicao\Enum_Composicao\bin\Debug\net6.0\Enum_Composicao.dll
+C:\Users\dnascimento\estudoC#\Enum_Composicao\Enum_Composicao\bin\Debug\net6.0\Enum_Composicao.pdb
+C:\Users\dnascimento\estudoC#\Enum_Composicao\Enum_Composicao\obj\Debug\net6.0\Enum_Composicao.csproj.AssemblyReference.cache
+C:\Users\dnascimento\estudoC#\Enum_Composicao\Enum_Composicao\obj\Debug\net6.0\Enum_Composicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnascimento\estudoC#\Enum_Composicao\Enum_Composicao\obj\Debug\net6.0\Enum_Composicao.AssemblyInfoInputs.cache
+C:\Users\dnascimento\estudoC#\Enum_Composicao\Enum_Composicao\obj\Debug\net6.0\Enum_Composicao.AssemblyInfo.cs
+C:\Users\dnascimento\estudoC#\Enum_Composicao\Enum_Composicao\obj\Debug\net6.0\Enum_Composicao.csproj.CoreCompileInputs.cache
+C:\Users\dnascimento\estudoC#\Enum_Composicao\Enum_Composicao\obj\Debug\net6.0\Enum_Composicao.dll
+C:\Users\dnascimento\estudoC#\Enum_Composicao\Enum_Composicao\obj\Debug\net6.0\refint\Enum_Composicao.dll
+C:\Users\dnascimento\estudoC#\Enum_Composicao\Enum_Composicao\obj\Debug\net6.0\Enum_Composicao.pdb
+C:\Users\dnascimento\estudoC#\Enum_Composicao\Enum_Composicao\obj\Debug\net6.0\Enum_Composicao.genruntimeconfig.cache
+C:\Users\dnascimento\estudoC#\Enum_Composicao\Enum_Composicao\obj\Debug\net6.0\ref\Enum_Composicao.dll

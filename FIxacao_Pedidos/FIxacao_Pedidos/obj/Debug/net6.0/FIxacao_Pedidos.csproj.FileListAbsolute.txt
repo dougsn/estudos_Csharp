@@ -1,0 +1,15 @@
+C:\Users\dnascimento\estudoC#\FIxacao_Pedidos\FIxacao_Pedidos\bin\Debug\net6.0\FIxacao_Pedidos.exe
+C:\Users\dnascimento\estudoC#\FIxacao_Pedidos\FIxacao_Pedidos\bin\Debug\net6.0\FIxacao_Pedidos.deps.json
+C:\Users\dnascimento\estudoC#\FIxacao_Pedidos\FIxacao_Pedidos\bin\Debug\net6.0\FIxacao_Pedidos.runtimeconfig.json
+C:\Users\dnascimento\estudoC#\FIxacao_Pedidos\FIxacao_Pedidos\bin\Debug\net6.0\FIxacao_Pedidos.dll
+C:\Users\dnascimento\estudoC#\FIxacao_Pedidos\FIxacao_Pedidos\bin\Debug\net6.0\FIxacao_Pedidos.pdb
+C:\Users\dnascimento\estudoC#\FIxacao_Pedidos\FIxacao_Pedidos\obj\Debug\net6.0\FIxacao_Pedidos.csproj.AssemblyReference.cache
+C:\Users\dnascimento\estudoC#\FIxacao_Pedidos\FIxacao_Pedidos\obj\Debug\net6.0\FIxacao_Pedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnascimento\estudoC#\FIxacao_Pedidos\FIxacao_Pedidos\obj\Debug\net6.0\FIxacao_Pedidos.AssemblyInfoInputs.cache
+C:\Users\dnascimento\estudoC#\FIxacao_Pedidos\FIxacao_Pedidos\obj\Debug\net6.0\FIxacao_Pedidos.AssemblyInfo.cs
+C:\Users\dnascimento\estudoC#\FIxacao_Pedidos\FIxacao_Pedidos\obj\Debug\net6.0\FIxacao_Pedidos.csproj.CoreCompileInputs.cache
+C:\Users\dnascimento\estudoC#\FIxacao_Pedidos\FIxacao_Pedidos\obj\Debug\net6.0\FIxacao_Pedidos.dll
+C:\Users\dnascimento\estudoC#\FIxacao_Pedidos\FIxacao_Pedidos\obj\Debug\net6.0\refint\FIxacao_Pedidos.dll
+C:\Users\dnascimento\estudoC#\FIxacao_Pedidos\FIxacao_Pedidos\obj\Debug\net6.0\FIxacao_Pedidos.pdb
+C:\Users\dnascimento\estudoC#\FIxacao_Pedidos\FIxacao_Pedidos\obj\Debug\net6.0\FIxacao_Pedidos.genruntimeconfig.cache
+C:\Users\dnascimento\estudoC#\FIxacao_Pedidos\FIxacao_Pedidos\obj\Debug\net6.0\ref\FIxacao_Pedidos.dll

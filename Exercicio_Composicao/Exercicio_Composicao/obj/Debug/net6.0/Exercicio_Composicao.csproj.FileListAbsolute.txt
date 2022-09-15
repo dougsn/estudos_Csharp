@@ -1,0 +1,15 @@
+C:\Users\dnascimento\estudoC#\Exercicio_Composicao\Exercicio_Composicao\bin\Debug\net6.0\Exercicio_Composicao.exe
+C:\Users\dnascimento\estudoC#\Exercicio_Composicao\Exercicio_Composicao\bin\Debug\net6.0\Exercicio_Composicao.deps.json
+C:\Users\dnascimento\estudoC#\Exercicio_Composicao\Exercicio_Composicao\bin\Debug\net6.0\Exercicio_Composicao.runtimeconfig.json
+C:\Users\dnascimento\estudoC#\Exercicio_Composicao\Exercicio_Composicao\bin\Debug\net6.0\Exercicio_Composicao.dll
+C:\Users\dnascimento\estudoC#\Exercicio_Composicao\Exercicio_Composicao\bin\Debug\net6.0\Exercicio_Composicao.pdb
+C:\Users\dnascimento\estudoC#\Exercicio_Composicao\Exercicio_Composicao\obj\Debug\net6.0\Exercicio_Composicao.csproj.AssemblyReference.cache
+C:\Users\dnascimento\estudoC#\Exercicio_Composicao\Exercicio_Composicao\obj\Debug\net6.0\Exercicio_Composicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnascimento\estudoC#\Exercicio_Composicao\Exercicio_Composicao\obj\Debug\net6.0\Exercicio_Composicao.AssemblyInfoInputs.cache
+C:\Users\dnascimento\estudoC#\Exercicio_Composicao\Exercicio_Composicao\obj\Debug\net6.0\Exercicio_Composicao.AssemblyInfo.cs
+C:\Users\dnascimento\estudoC#\Exercicio_Composicao\Exercicio_Composicao\obj\Debug\net6.0\Exercicio_Composicao.csproj.CoreCompileInputs.cache
+C:\Users\dnascimento\estudoC#\Exercicio_Composicao\Exercicio_Composicao\obj\Debug\net6.0\Exercicio_Composicao.dll
+C:\Users\dnascimento\estudoC#\Exercicio_Composicao\Exercicio_Composicao\obj\Debug\net6.0\refint\Exercicio_Composicao.dll
+C:\Users\dnascimento\estudoC#\Exercicio_Composicao\Exercicio_Composicao\obj\Debug\net6.0\Exercicio_Composicao.pdb
+C:\Users\dnascimento\estudoC#\Exercicio_Composicao\Exercicio_Composicao\obj\Debug\net6.0\Exercicio_Composicao.genruntimeconfig.cache
+C:\Users\dnascimento\estudoC#\Exercicio_Composicao\Exercicio_Composicao\obj\Debug\net6.0\ref\Exercicio_Composicao.dll
