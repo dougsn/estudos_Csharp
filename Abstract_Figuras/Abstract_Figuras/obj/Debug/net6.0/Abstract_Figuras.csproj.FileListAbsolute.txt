@@ -1,0 +1,15 @@
+C:\Users\dnascimento\estudoC#\Abstract_Figuras\Abstract_Figuras\bin\Debug\net6.0\Abstract_Figuras.exe
+C:\Users\dnascimento\estudoC#\Abstract_Figuras\Abstract_Figuras\bin\Debug\net6.0\Abstract_Figuras.deps.json
+C:\Users\dnascimento\estudoC#\Abstract_Figuras\Abstract_Figuras\bin\Debug\net6.0\Abstract_Figuras.runtimeconfig.json
+C:\Users\dnascimento\estudoC#\Abstract_Figuras\Abstract_Figuras\bin\Debug\net6.0\Abstract_Figuras.dll
+C:\Users\dnascimento\estudoC#\Abstract_Figuras\Abstract_Figuras\bin\Debug\net6.0\Abstract_Figuras.pdb
+C:\Users\dnascimento\estudoC#\Abstract_Figuras\Abstract_Figuras\obj\Debug\net6.0\Abstract_Figuras.csproj.AssemblyReference.cache
+C:\Users\dnascimento\estudoC#\Abstract_Figuras\Abstract_Figuras\obj\Debug\net6.0\Abstract_Figuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnascimento\estudoC#\Abstract_Figuras\Abstract_Figuras\obj\Debug\net6.0\Abstract_Figuras.AssemblyInfoInputs.cache
+C:\Users\dnascimento\estudoC#\Abstract_Figuras\Abstract_Figuras\obj\Debug\net6.0\Abstract_Figuras.AssemblyInfo.cs
+C:\Users\dnascimento\estudoC#\Abstract_Figuras\Abstract_Figuras\obj\Debug\net6.0\Abstract_Figuras.csproj.CoreCompileInputs.cache
+C:\Users\dnascimento\estudoC#\Abstract_Figuras\Abstract_Figuras\obj\Debug\net6.0\Abstract_Figuras.dll
+C:\Users\dnascimento\estudoC#\Abstract_Figuras\Abstract_Figuras\obj\Debug\net6.0\refint\Abstract_Figuras.dll
+C:\Users\dnascimento\estudoC#\Abstract_Figuras\Abstract_Figuras\obj\Debug\net6.0\Abstract_Figuras.pdb
+C:\Users\dnascimento\estudoC#\Abstract_Figuras\Abstract_Figuras\obj\Debug\net6.0\Abstract_Figuras.genruntimeconfig.cache
+C:\Users\dnascimento\estudoC#\Abstract_Figuras\Abstract_Figuras\obj\Debug\net6.0\ref\Abstract_Figuras.dll

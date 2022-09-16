@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("FIxacao_Pedidos")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Fixacao_Pedidos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("FIxacao_Pedidos")]
-[assembly: System.Reflection.AssemblyTitleAttribute("FIxacao_Pedidos")]
+[assembly: System.Reflection.AssemblyProductAttribute("Fixacao_Pedidos")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Fixacao_Pedidos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

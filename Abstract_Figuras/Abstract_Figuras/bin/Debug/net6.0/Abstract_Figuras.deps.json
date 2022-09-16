@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Abstract_Figuras/1.0.0": {
+        "runtime": {
+          "Abstract_Figuras.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Abstract_Figuras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

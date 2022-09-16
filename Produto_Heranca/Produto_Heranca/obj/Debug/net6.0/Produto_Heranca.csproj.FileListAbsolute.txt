@@ -1,0 +1,15 @@
+C:\Users\dnascimento\estudoC#\Produto_Heranca\Produto_Heranca\bin\Debug\net6.0\Produto_Heranca.exe
+C:\Users\dnascimento\estudoC#\Produto_Heranca\Produto_Heranca\bin\Debug\net6.0\Produto_Heranca.deps.json
+C:\Users\dnascimento\estudoC#\Produto_Heranca\Produto_Heranca\bin\Debug\net6.0\Produto_Heranca.runtimeconfig.json
+C:\Users\dnascimento\estudoC#\Produto_Heranca\Produto_Heranca\bin\Debug\net6.0\Produto_Heranca.dll
+C:\Users\dnascimento\estudoC#\Produto_Heranca\Produto_Heranca\bin\Debug\net6.0\Produto_Heranca.pdb
+C:\Users\dnascimento\estudoC#\Produto_Heranca\Produto_Heranca\obj\Debug\net6.0\Produto_Heranca.csproj.AssemblyReference.cache
+C:\Users\dnascimento\estudoC#\Produto_Heranca\Produto_Heranca\obj\Debug\net6.0\Produto_Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnascimento\estudoC#\Produto_Heranca\Produto_Heranca\obj\Debug\net6.0\Produto_Heranca.AssemblyInfoInputs.cache
+C:\Users\dnascimento\estudoC#\Produto_Heranca\Produto_Heranca\obj\Debug\net6.0\Produto_Heranca.AssemblyInfo.cs
+C:\Users\dnascimento\estudoC#\Produto_Heranca\Produto_Heranca\obj\Debug\net6.0\Produto_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\dnascimento\estudoC#\Produto_Heranca\Produto_Heranca\obj\Debug\net6.0\Produto_Heranca.dll
+C:\Users\dnascimento\estudoC#\Produto_Heranca\Produto_Heranca\obj\Debug\net6.0\refint\Produto_Heranca.dll
+C:\Users\dnascimento\estudoC#\Produto_Heranca\Produto_Heranca\obj\Debug\net6.0\Produto_Heranca.pdb
+C:\Users\dnascimento\estudoC#\Produto_Heranca\Produto_Heranca\obj\Debug\net6.0\Produto_Heranca.genruntimeconfig.cache
+C:\Users\dnascimento\estudoC#\Produto_Heranca\Produto_Heranca\obj\Debug\net6.0\ref\Produto_Heranca.dll
