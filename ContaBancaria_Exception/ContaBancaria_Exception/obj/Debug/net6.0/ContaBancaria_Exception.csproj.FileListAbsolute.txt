@@ -1,0 +1,15 @@
+C:\Users\dnascimento\estudoC#\ContaBancaria_Exception\ContaBancaria_Exception\bin\Debug\net6.0\ContaBancaria_Exception.exe
+C:\Users\dnascimento\estudoC#\ContaBancaria_Exception\ContaBancaria_Exception\bin\Debug\net6.0\ContaBancaria_Exception.deps.json
+C:\Users\dnascimento\estudoC#\ContaBancaria_Exception\ContaBancaria_Exception\bin\Debug\net6.0\ContaBancaria_Exception.runtimeconfig.json
+C:\Users\dnascimento\estudoC#\ContaBancaria_Exception\ContaBancaria_Exception\bin\Debug\net6.0\ContaBancaria_Exception.dll
+C:\Users\dnascimento\estudoC#\ContaBancaria_Exception\ContaBancaria_Exception\bin\Debug\net6.0\ContaBancaria_Exception.pdb
+C:\Users\dnascimento\estudoC#\ContaBancaria_Exception\ContaBancaria_Exception\obj\Debug\net6.0\ContaBancaria_Exception.csproj.AssemblyReference.cache
+C:\Users\dnascimento\estudoC#\ContaBancaria_Exception\ContaBancaria_Exception\obj\Debug\net6.0\ContaBancaria_Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnascimento\estudoC#\ContaBancaria_Exception\ContaBancaria_Exception\obj\Debug\net6.0\ContaBancaria_Exception.AssemblyInfoInputs.cache
+C:\Users\dnascimento\estudoC#\ContaBancaria_Exception\ContaBancaria_Exception\obj\Debug\net6.0\ContaBancaria_Exception.AssemblyInfo.cs
+C:\Users\dnascimento\estudoC#\ContaBancaria_Exception\ContaBancaria_Exception\obj\Debug\net6.0\ContaBancaria_Exception.csproj.CoreCompileInputs.cache
+C:\Users\dnascimento\estudoC#\ContaBancaria_Exception\ContaBancaria_Exception\obj\Debug\net6.0\ContaBancaria_Exception.dll
+C:\Users\dnascimento\estudoC#\ContaBancaria_Exception\ContaBancaria_Exception\obj\Debug\net6.0\refint\ContaBancaria_Exception.dll
+C:\Users\dnascimento\estudoC#\ContaBancaria_Exception\ContaBancaria_Exception\obj\Debug\net6.0\ContaBancaria_Exception.pdb
+C:\Users\dnascimento\estudoC#\ContaBancaria_Exception\ContaBancaria_Exception\obj\Debug\net6.0\ContaBancaria_Exception.genruntimeconfig.cache
+C:\Users\dnascimento\estudoC#\ContaBancaria_Exception\ContaBancaria_Exception\obj\Debug\net6.0\ref\ContaBancaria_Exception.dll
