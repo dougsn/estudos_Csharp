@@ -1,0 +1,15 @@
+C:\Users\dnascimento\estudoC#\Directory_Arquivos\Directory_Arquivos\bin\Debug\net6.0\Directory_Arquivos.exe
+C:\Users\dnascimento\estudoC#\Directory_Arquivos\Directory_Arquivos\bin\Debug\net6.0\Directory_Arquivos.deps.json
+C:\Users\dnascimento\estudoC#\Directory_Arquivos\Directory_Arquivos\bin\Debug\net6.0\Directory_Arquivos.runtimeconfig.json
+C:\Users\dnascimento\estudoC#\Directory_Arquivos\Directory_Arquivos\bin\Debug\net6.0\Directory_Arquivos.dll
+C:\Users\dnascimento\estudoC#\Directory_Arquivos\Directory_Arquivos\bin\Debug\net6.0\Directory_Arquivos.pdb
+C:\Users\dnascimento\estudoC#\Directory_Arquivos\Directory_Arquivos\obj\Debug\net6.0\Directory_Arquivos.csproj.AssemblyReference.cache
+C:\Users\dnascimento\estudoC#\Directory_Arquivos\Directory_Arquivos\obj\Debug\net6.0\Directory_Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnascimento\estudoC#\Directory_Arquivos\Directory_Arquivos\obj\Debug\net6.0\Directory_Arquivos.AssemblyInfoInputs.cache
+C:\Users\dnascimento\estudoC#\Directory_Arquivos\Directory_Arquivos\obj\Debug\net6.0\Directory_Arquivos.AssemblyInfo.cs
+C:\Users\dnascimento\estudoC#\Directory_Arquivos\Directory_Arquivos\obj\Debug\net6.0\Directory_Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\dnascimento\estudoC#\Directory_Arquivos\Directory_Arquivos\obj\Debug\net6.0\Directory_Arquivos.dll
+C:\Users\dnascimento\estudoC#\Directory_Arquivos\Directory_Arquivos\obj\Debug\net6.0\refint\Directory_Arquivos.dll
+C:\Users\dnascimento\estudoC#\Directory_Arquivos\Directory_Arquivos\obj\Debug\net6.0\Directory_Arquivos.pdb
+C:\Users\dnascimento\estudoC#\Directory_Arquivos\Directory_Arquivos\obj\Debug\net6.0\Directory_Arquivos.genruntimeconfig.cache
+C:\Users\dnascimento\estudoC#\Directory_Arquivos\Directory_Arquivos\obj\Debug\net6.0\ref\Directory_Arquivos.dll

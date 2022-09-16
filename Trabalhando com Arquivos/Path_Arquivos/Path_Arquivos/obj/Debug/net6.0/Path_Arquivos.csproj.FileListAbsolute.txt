@@ -1,0 +1,15 @@
+C:\Users\dnascimento\estudoC#\Path_Arquivos\Path_Arquivos\bin\Debug\net6.0\Path_Arquivos.exe
+C:\Users\dnascimento\estudoC#\Path_Arquivos\Path_Arquivos\bin\Debug\net6.0\Path_Arquivos.deps.json
+C:\Users\dnascimento\estudoC#\Path_Arquivos\Path_Arquivos\bin\Debug\net6.0\Path_Arquivos.runtimeconfig.json
+C:\Users\dnascimento\estudoC#\Path_Arquivos\Path_Arquivos\bin\Debug\net6.0\Path_Arquivos.dll
+C:\Users\dnascimento\estudoC#\Path_Arquivos\Path_Arquivos\bin\Debug\net6.0\Path_Arquivos.pdb
+C:\Users\dnascimento\estudoC#\Path_Arquivos\Path_Arquivos\obj\Debug\net6.0\Path_Arquivos.csproj.AssemblyReference.cache
+C:\Users\dnascimento\estudoC#\Path_Arquivos\Path_Arquivos\obj\Debug\net6.0\Path_Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnascimento\estudoC#\Path_Arquivos\Path_Arquivos\obj\Debug\net6.0\Path_Arquivos.AssemblyInfoInputs.cache
+C:\Users\dnascimento\estudoC#\Path_Arquivos\Path_Arquivos\obj\Debug\net6.0\Path_Arquivos.AssemblyInfo.cs
+C:\Users\dnascimento\estudoC#\Path_Arquivos\Path_Arquivos\obj\Debug\net6.0\Path_Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\dnascimento\estudoC#\Path_Arquivos\Path_Arquivos\obj\Debug\net6.0\Path_Arquivos.dll
+C:\Users\dnascimento\estudoC#\Path_Arquivos\Path_Arquivos\obj\Debug\net6.0\refint\Path_Arquivos.dll
+C:\Users\dnascimento\estudoC#\Path_Arquivos\Path_Arquivos\obj\Debug\net6.0\Path_Arquivos.pdb
+C:\Users\dnascimento\estudoC#\Path_Arquivos\Path_Arquivos\obj\Debug\net6.0\Path_Arquivos.genruntimeconfig.cache
+C:\Users\dnascimento\estudoC#\Path_Arquivos\Path_Arquivos\obj\Debug\net6.0\ref\Path_Arquivos.dll
