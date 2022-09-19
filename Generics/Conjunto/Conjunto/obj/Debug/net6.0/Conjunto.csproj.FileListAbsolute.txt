@@ -1,0 +1,15 @@
+C:\Users\dnascimento\estudoC#\Generics\Conjunto\Conjunto\bin\Debug\net6.0\Conjunto.exe
+C:\Users\dnascimento\estudoC#\Generics\Conjunto\Conjunto\bin\Debug\net6.0\Conjunto.deps.json
+C:\Users\dnascimento\estudoC#\Generics\Conjunto\Conjunto\bin\Debug\net6.0\Conjunto.runtimeconfig.json
+C:\Users\dnascimento\estudoC#\Generics\Conjunto\Conjunto\bin\Debug\net6.0\Conjunto.dll
+C:\Users\dnascimento\estudoC#\Generics\Conjunto\Conjunto\bin\Debug\net6.0\Conjunto.pdb
+C:\Users\dnascimento\estudoC#\Generics\Conjunto\Conjunto\obj\Debug\net6.0\Conjunto.csproj.AssemblyReference.cache
+C:\Users\dnascimento\estudoC#\Generics\Conjunto\Conjunto\obj\Debug\net6.0\Conjunto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnascimento\estudoC#\Generics\Conjunto\Conjunto\obj\Debug\net6.0\Conjunto.AssemblyInfoInputs.cache
+C:\Users\dnascimento\estudoC#\Generics\Conjunto\Conjunto\obj\Debug\net6.0\Conjunto.AssemblyInfo.cs
+C:\Users\dnascimento\estudoC#\Generics\Conjunto\Conjunto\obj\Debug\net6.0\Conjunto.csproj.CoreCompileInputs.cache
+C:\Users\dnascimento\estudoC#\Generics\Conjunto\Conjunto\obj\Debug\net6.0\Conjunto.dll
+C:\Users\dnascimento\estudoC#\Generics\Conjunto\Conjunto\obj\Debug\net6.0\refint\Conjunto.dll
+C:\Users\dnascimento\estudoC#\Generics\Conjunto\Conjunto\obj\Debug\net6.0\Conjunto.pdb
+C:\Users\dnascimento\estudoC#\Generics\Conjunto\Conjunto\obj\Debug\net6.0\Conjunto.genruntimeconfig.cache
+C:\Users\dnascimento\estudoC#\Generics\Conjunto\Conjunto\obj\Debug\net6.0\ref\Conjunto.dll

@@ -1,0 +1,15 @@
+C:\Users\dnascimento\estudoC#\Interface\IComparable\IComparable\bin\Debug\net6.0\IComparable_Inteface.exe
+C:\Users\dnascimento\estudoC#\Interface\IComparable\IComparable\bin\Debug\net6.0\IComparable_Inteface.deps.json
+C:\Users\dnascimento\estudoC#\Interface\IComparable\IComparable\bin\Debug\net6.0\IComparable_Inteface.runtimeconfig.json
+C:\Users\dnascimento\estudoC#\Interface\IComparable\IComparable\bin\Debug\net6.0\IComparable_Inteface.dll
+C:\Users\dnascimento\estudoC#\Interface\IComparable\IComparable\bin\Debug\net6.0\IComparable_Inteface.pdb
+C:\Users\dnascimento\estudoC#\Interface\IComparable\IComparable\obj\Debug\net6.0\IComparable_Inteface.csproj.AssemblyReference.cache
+C:\Users\dnascimento\estudoC#\Interface\IComparable\IComparable\obj\Debug\net6.0\IComparable_Inteface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnascimento\estudoC#\Interface\IComparable\IComparable\obj\Debug\net6.0\IComparable_Inteface.AssemblyInfoInputs.cache
+C:\Users\dnascimento\estudoC#\Interface\IComparable\IComparable\obj\Debug\net6.0\IComparable_Inteface.AssemblyInfo.cs
+C:\Users\dnascimento\estudoC#\Interface\IComparable\IComparable\obj\Debug\net6.0\IComparable_Inteface.csproj.CoreCompileInputs.cache
+C:\Users\dnascimento\estudoC#\Interface\IComparable\IComparable\obj\Debug\net6.0\IComparable_Inteface.dll
+C:\Users\dnascimento\estudoC#\Interface\IComparable\IComparable\obj\Debug\net6.0\refint\IComparable_Inteface.dll
+C:\Users\dnascimento\estudoC#\Interface\IComparable\IComparable\obj\Debug\net6.0\IComparable_Inteface.pdb
+C:\Users\dnascimento\estudoC#\Interface\IComparable\IComparable\obj\Debug\net6.0\IComparable_Inteface.genruntimeconfig.cache
+C:\Users\dnascimento\estudoC#\Interface\IComparable\IComparable\obj\Debug\net6.0\ref\IComparable_Inteface.dll

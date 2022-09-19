@@ -1,0 +1,15 @@
+C:\Users\dnascimento\estudoC#\Generics\Generics1\Generics1\bin\Debug\net6.0\Generics1.exe
+C:\Users\dnascimento\estudoC#\Generics\Generics1\Generics1\bin\Debug\net6.0\Generics1.deps.json
+C:\Users\dnascimento\estudoC#\Generics\Generics1\Generics1\bin\Debug\net6.0\Generics1.runtimeconfig.json
+C:\Users\dnascimento\estudoC#\Generics\Generics1\Generics1\bin\Debug\net6.0\Generics1.dll
+C:\Users\dnascimento\estudoC#\Generics\Generics1\Generics1\bin\Debug\net6.0\Generics1.pdb
+C:\Users\dnascimento\estudoC#\Generics\Generics1\Generics1\obj\Debug\net6.0\Generics1.csproj.AssemblyReference.cache
+C:\Users\dnascimento\estudoC#\Generics\Generics1\Generics1\obj\Debug\net6.0\Generics1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnascimento\estudoC#\Generics\Generics1\Generics1\obj\Debug\net6.0\Generics1.AssemblyInfoInputs.cache
+C:\Users\dnascimento\estudoC#\Generics\Generics1\Generics1\obj\Debug\net6.0\Generics1.AssemblyInfo.cs
+C:\Users\dnascimento\estudoC#\Generics\Generics1\Generics1\obj\Debug\net6.0\Generics1.csproj.CoreCompileInputs.cache
+C:\Users\dnascimento\estudoC#\Generics\Generics1\Generics1\obj\Debug\net6.0\Generics1.dll
+C:\Users\dnascimento\estudoC#\Generics\Generics1\Generics1\obj\Debug\net6.0\refint\Generics1.dll
+C:\Users\dnascimento\estudoC#\Generics\Generics1\Generics1\obj\Debug\net6.0\Generics1.pdb
+C:\Users\dnascimento\estudoC#\Generics\Generics1\Generics1\obj\Debug\net6.0\Generics1.genruntimeconfig.cache
+C:\Users\dnascimento\estudoC#\Generics\Generics1\Generics1\obj\Debug\net6.0\ref\Generics1.dll
