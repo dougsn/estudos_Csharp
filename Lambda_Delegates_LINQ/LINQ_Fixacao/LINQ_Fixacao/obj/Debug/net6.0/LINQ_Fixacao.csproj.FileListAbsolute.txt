@@ -1,0 +1,15 @@
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\LINQ_Fixacao\LINQ_Fixacao\bin\Debug\net6.0\LINQ_Fixacao.exe
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\LINQ_Fixacao\LINQ_Fixacao\bin\Debug\net6.0\LINQ_Fixacao.deps.json
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\LINQ_Fixacao\LINQ_Fixacao\bin\Debug\net6.0\LINQ_Fixacao.runtimeconfig.json
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\LINQ_Fixacao\LINQ_Fixacao\bin\Debug\net6.0\LINQ_Fixacao.dll
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\LINQ_Fixacao\LINQ_Fixacao\bin\Debug\net6.0\LINQ_Fixacao.pdb
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\LINQ_Fixacao\LINQ_Fixacao\obj\Debug\net6.0\LINQ_Fixacao.csproj.AssemblyReference.cache
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\LINQ_Fixacao\LINQ_Fixacao\obj\Debug\net6.0\LINQ_Fixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\LINQ_Fixacao\LINQ_Fixacao\obj\Debug\net6.0\LINQ_Fixacao.AssemblyInfoInputs.cache
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\LINQ_Fixacao\LINQ_Fixacao\obj\Debug\net6.0\LINQ_Fixacao.AssemblyInfo.cs
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\LINQ_Fixacao\LINQ_Fixacao\obj\Debug\net6.0\LINQ_Fixacao.csproj.CoreCompileInputs.cache
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\LINQ_Fixacao\LINQ_Fixacao\obj\Debug\net6.0\LINQ_Fixacao.dll
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\LINQ_Fixacao\LINQ_Fixacao\obj\Debug\net6.0\refint\LINQ_Fixacao.dll
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\LINQ_Fixacao\LINQ_Fixacao\obj\Debug\net6.0\LINQ_Fixacao.pdb
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\LINQ_Fixacao\LINQ_Fixacao\obj\Debug\net6.0\LINQ_Fixacao.genruntimeconfig.cache
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\LINQ_Fixacao\LINQ_Fixacao\obj\Debug\net6.0\ref\LINQ_Fixacao.dll

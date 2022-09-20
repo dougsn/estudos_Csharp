@@ -1,0 +1,15 @@
+C:\Users\dnascimento\estudoC#\Generics\Predicate_RemoveAll\Predicate_RemoveAll\bin\Debug\net6.0\Predicate_RemoveAll.exe
+C:\Users\dnascimento\estudoC#\Generics\Predicate_RemoveAll\Predicate_RemoveAll\bin\Debug\net6.0\Predicate_RemoveAll.deps.json
+C:\Users\dnascimento\estudoC#\Generics\Predicate_RemoveAll\Predicate_RemoveAll\bin\Debug\net6.0\Predicate_RemoveAll.runtimeconfig.json
+C:\Users\dnascimento\estudoC#\Generics\Predicate_RemoveAll\Predicate_RemoveAll\bin\Debug\net6.0\Predicate_RemoveAll.dll
+C:\Users\dnascimento\estudoC#\Generics\Predicate_RemoveAll\Predicate_RemoveAll\bin\Debug\net6.0\Predicate_RemoveAll.pdb
+C:\Users\dnascimento\estudoC#\Generics\Predicate_RemoveAll\Predicate_RemoveAll\obj\Debug\net6.0\Predicate_RemoveAll.csproj.AssemblyReference.cache
+C:\Users\dnascimento\estudoC#\Generics\Predicate_RemoveAll\Predicate_RemoveAll\obj\Debug\net6.0\Predicate_RemoveAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnascimento\estudoC#\Generics\Predicate_RemoveAll\Predicate_RemoveAll\obj\Debug\net6.0\Predicate_RemoveAll.AssemblyInfoInputs.cache
+C:\Users\dnascimento\estudoC#\Generics\Predicate_RemoveAll\Predicate_RemoveAll\obj\Debug\net6.0\Predicate_RemoveAll.AssemblyInfo.cs
+C:\Users\dnascimento\estudoC#\Generics\Predicate_RemoveAll\Predicate_RemoveAll\obj\Debug\net6.0\Predicate_RemoveAll.csproj.CoreCompileInputs.cache
+C:\Users\dnascimento\estudoC#\Generics\Predicate_RemoveAll\Predicate_RemoveAll\obj\Debug\net6.0\Predicate_RemoveAll.dll
+C:\Users\dnascimento\estudoC#\Generics\Predicate_RemoveAll\Predicate_RemoveAll\obj\Debug\net6.0\refint\Predicate_RemoveAll.dll
+C:\Users\dnascimento\estudoC#\Generics\Predicate_RemoveAll\Predicate_RemoveAll\obj\Debug\net6.0\Predicate_RemoveAll.pdb
+C:\Users\dnascimento\estudoC#\Generics\Predicate_RemoveAll\Predicate_RemoveAll\obj\Debug\net6.0\Predicate_RemoveAll.genruntimeconfig.cache
+C:\Users\dnascimento\estudoC#\Generics\Predicate_RemoveAll\Predicate_RemoveAll\obj\Debug\net6.0\ref\Predicate_RemoveAll.dll

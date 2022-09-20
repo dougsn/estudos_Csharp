@@ -1,0 +1,15 @@
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Employee_LINQ\Employee_LINQ\bin\Debug\net6.0\Employee_LINQ.exe
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Employee_LINQ\Employee_LINQ\bin\Debug\net6.0\Employee_LINQ.deps.json
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Employee_LINQ\Employee_LINQ\bin\Debug\net6.0\Employee_LINQ.runtimeconfig.json
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Employee_LINQ\Employee_LINQ\bin\Debug\net6.0\Employee_LINQ.dll
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Employee_LINQ\Employee_LINQ\bin\Debug\net6.0\Employee_LINQ.pdb
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Employee_LINQ\Employee_LINQ\obj\Debug\net6.0\Employee_LINQ.csproj.AssemblyReference.cache
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Employee_LINQ\Employee_LINQ\obj\Debug\net6.0\Employee_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Employee_LINQ\Employee_LINQ\obj\Debug\net6.0\Employee_LINQ.AssemblyInfoInputs.cache
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Employee_LINQ\Employee_LINQ\obj\Debug\net6.0\Employee_LINQ.AssemblyInfo.cs
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Employee_LINQ\Employee_LINQ\obj\Debug\net6.0\Employee_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Employee_LINQ\Employee_LINQ\obj\Debug\net6.0\Employee_LINQ.dll
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Employee_LINQ\Employee_LINQ\obj\Debug\net6.0\refint\Employee_LINQ.dll
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Employee_LINQ\Employee_LINQ\obj\Debug\net6.0\Employee_LINQ.pdb
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Employee_LINQ\Employee_LINQ\obj\Debug\net6.0\Employee_LINQ.genruntimeconfig.cache
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Employee_LINQ\Employee_LINQ\obj\Debug\net6.0\ref\Employee_LINQ.dll

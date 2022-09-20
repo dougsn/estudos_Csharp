@@ -1,0 +1,15 @@
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Func_Select\Func_Select\bin\Debug\net6.0\Func_Select.exe
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Func_Select\Func_Select\bin\Debug\net6.0\Func_Select.deps.json
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Func_Select\Func_Select\bin\Debug\net6.0\Func_Select.runtimeconfig.json
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Func_Select\Func_Select\bin\Debug\net6.0\Func_Select.dll
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Func_Select\Func_Select\bin\Debug\net6.0\Func_Select.pdb
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Func_Select\Func_Select\obj\Debug\net6.0\Func_Select.csproj.AssemblyReference.cache
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Func_Select\Func_Select\obj\Debug\net6.0\Func_Select.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Func_Select\Func_Select\obj\Debug\net6.0\Func_Select.AssemblyInfoInputs.cache
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Func_Select\Func_Select\obj\Debug\net6.0\Func_Select.AssemblyInfo.cs
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Func_Select\Func_Select\obj\Debug\net6.0\Func_Select.csproj.CoreCompileInputs.cache
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Func_Select\Func_Select\obj\Debug\net6.0\Func_Select.dll
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Func_Select\Func_Select\obj\Debug\net6.0\refint\Func_Select.dll
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Func_Select\Func_Select\obj\Debug\net6.0\Func_Select.pdb
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Func_Select\Func_Select\obj\Debug\net6.0\Func_Select.genruntimeconfig.cache
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Func_Select\Func_Select\obj\Debug\net6.0\ref\Func_Select.dll

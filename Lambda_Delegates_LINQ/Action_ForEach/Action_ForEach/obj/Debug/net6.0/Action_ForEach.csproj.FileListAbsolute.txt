@@ -1,0 +1,15 @@
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Action_ForEach\Action_ForEach\bin\Debug\net6.0\Action_ForEach.exe
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Action_ForEach\Action_ForEach\bin\Debug\net6.0\Action_ForEach.deps.json
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Action_ForEach\Action_ForEach\bin\Debug\net6.0\Action_ForEach.runtimeconfig.json
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Action_ForEach\Action_ForEach\bin\Debug\net6.0\Action_ForEach.dll
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Action_ForEach\Action_ForEach\bin\Debug\net6.0\Action_ForEach.pdb
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Action_ForEach\Action_ForEach\obj\Debug\net6.0\Action_ForEach.csproj.AssemblyReference.cache
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Action_ForEach\Action_ForEach\obj\Debug\net6.0\Action_ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Action_ForEach\Action_ForEach\obj\Debug\net6.0\Action_ForEach.AssemblyInfoInputs.cache
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Action_ForEach\Action_ForEach\obj\Debug\net6.0\Action_ForEach.AssemblyInfo.cs
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Action_ForEach\Action_ForEach\obj\Debug\net6.0\Action_ForEach.csproj.CoreCompileInputs.cache
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Action_ForEach\Action_ForEach\obj\Debug\net6.0\Action_ForEach.dll
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Action_ForEach\Action_ForEach\obj\Debug\net6.0\refint\Action_ForEach.dll
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Action_ForEach\Action_ForEach\obj\Debug\net6.0\Action_ForEach.pdb
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Action_ForEach\Action_ForEach\obj\Debug\net6.0\Action_ForEach.genruntimeconfig.cache
+C:\Users\dnascimento\estudoC#\Lambda_Delegates_LINQ\Action_ForEach\Action_ForEach\obj\Debug\net6.0\ref\Action_ForEach.dll
