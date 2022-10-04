@@ -12693,25 +12693,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dnascimento\\.nuget\\packages\\": {},
+    "C:\\Users\\Douglas\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dnascimento\\estudoC#\\Asp Net Core MVC\\Projetos_Realizados\\GerenciadorDespesas\\GerenciadorDespesas\\GerenciadorDespesas.csproj",
+      "projectUniqueName": "C:\\Users\\Douglas\\Desktop\\estudos_Csharp\\Asp Net Core MVC\\Projetos_Realizados\\GerenciadorDespesas\\GerenciadorDespesas\\GerenciadorDespesas.csproj",
       "projectName": "GerenciadorDespesas",
-      "projectPath": "C:\\Users\\dnascimento\\estudoC#\\Asp Net Core MVC\\Projetos_Realizados\\GerenciadorDespesas\\GerenciadorDespesas\\GerenciadorDespesas.csproj",
-      "packagesPath": "C:\\Users\\dnascimento\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dnascimento\\estudoC#\\Asp Net Core MVC\\Projetos_Realizados\\GerenciadorDespesas\\GerenciadorDespesas\\obj\\",
+      "projectPath": "C:\\Users\\Douglas\\Desktop\\estudos_Csharp\\Asp Net Core MVC\\Projetos_Realizados\\GerenciadorDespesas\\GerenciadorDespesas\\GerenciadorDespesas.csproj",
+      "packagesPath": "C:\\Users\\Douglas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Douglas\\Desktop\\estudos_Csharp\\Asp Net Core MVC\\Projetos_Realizados\\GerenciadorDespesas\\GerenciadorDespesas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\dnascimento\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Douglas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
