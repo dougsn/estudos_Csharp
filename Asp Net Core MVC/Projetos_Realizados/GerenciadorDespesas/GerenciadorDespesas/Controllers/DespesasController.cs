@@ -143,8 +143,28 @@ namespace GerenciadorDespesas.Controllers
             gastos.Salario = _context.Salarios.Where(s => s.Meses.MesId == mesId).Select(s => s.Valor).FirstOrDefault();
 
             return Json(gastos);
-            
+        }
 
+        public JsonResult GastoMes(int mesId)
+        {
+            var query = from despesas in _context.Despesas
+                        where despesas.Meses.MesId == mesId
+                        group despesas by despesas.TipoDespesas.Nome into g
+                        select new
+                        {
+                            TiposDespesas = g.Key,
+                            Valores = g.Sum(d => d.Valor)
+                        };
+            return Json(query);
+        }
+
+        public JsonResult GastosTotais()
+        {
+            var query = _context.Despesas
+                .OrderBy(m => m.Meses.MesId)
+                .GroupBy(m => m.Meses.MesId)
+                .Select(d => new { NomeMeses = d.Select(x => x.Meses.Nome).Distinct(), Valores = d.Sum(x => x.Valor) });
+            return Json(query);
         }
 
     }
