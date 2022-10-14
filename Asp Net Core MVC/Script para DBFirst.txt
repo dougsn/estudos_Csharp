@@ -1,1 +1,1 @@
-Scaffold-DbContext "Server=(localdb)\mssqllocaldb;Database=ProcuraRegistroDB;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+Scaffold-DbContext "Server=(localdb)\mssqllocaldb;Database=PessoasDB;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
