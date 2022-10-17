@@ -36,6 +36,10 @@ namespace FichaAcademia
             // Registrando repositorio
 
             services.AddTransient<ICategoriaExercicioRepositorio, CategoriaExercicioRepositorio>();
+            services.AddTransient<IAdministradorRepositorio, AdministradorRepositorio>();
+            services.AddTransient<IExercicioRepositorio, ExercicioRepositorio>();
+            services.AddTransient<IProfessorRepositorio, ProfessorRepositorio>();
+
 
 
             // Configuração de Autenticação
@@ -80,7 +84,7 @@ namespace FichaAcademia
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=CategoriasExercicios}/{action=Index}/{id?}");
+                    template: "{controller=Administradores}/{action=Login}/{id?}");
             });
         }
     }

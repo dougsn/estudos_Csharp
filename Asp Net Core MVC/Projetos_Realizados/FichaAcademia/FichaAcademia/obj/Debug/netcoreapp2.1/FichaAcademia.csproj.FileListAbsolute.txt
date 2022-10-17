@@ -32,3 +32,10 @@ C:\Users\dnascimento\Desktop\estudos_Csharp\Asp Net Core MVC\Projetos_Realizados
 C:\Users\dnascimento\Desktop\estudos_Csharp\Asp Net Core MVC\Projetos_Realizados\FichaAcademia\FichaAcademia\obj\Debug\netcoreapp2.1\Razor\Views\CategoriasExercicios\Create.g.cshtml.cs
 C:\Users\dnascimento\Desktop\estudos_Csharp\Asp Net Core MVC\Projetos_Realizados\FichaAcademia\FichaAcademia\obj\Debug\netcoreapp2.1\Razor\Views\CategoriasExercicios\Edit.g.cshtml.cs
 C:\Users\dnascimento\Desktop\estudos_Csharp\Asp Net Core MVC\Projetos_Realizados\FichaAcademia\FichaAcademia\obj\Debug\netcoreapp2.1\Razor\Views\CategoriasExercicios\Index.g.cshtml.cs
+C:\Users\dnascimento\Desktop\estudos_Csharp\Asp Net Core MVC\Projetos_Realizados\FichaAcademia\FichaAcademia\obj\Debug\netcoreapp2.1\Razor\Views\Administradores\Login.g.cshtml.cs
+C:\Users\dnascimento\Desktop\estudos_Csharp\Asp Net Core MVC\Projetos_Realizados\FichaAcademia\FichaAcademia\obj\Debug\netcoreapp2.1\Razor\Views\Exercicios\Create.g.cshtml.cs
+C:\Users\dnascimento\Desktop\estudos_Csharp\Asp Net Core MVC\Projetos_Realizados\FichaAcademia\FichaAcademia\obj\Debug\netcoreapp2.1\Razor\Views\Exercicios\Edit.g.cshtml.cs
+C:\Users\dnascimento\Desktop\estudos_Csharp\Asp Net Core MVC\Projetos_Realizados\FichaAcademia\FichaAcademia\obj\Debug\netcoreapp2.1\Razor\Views\Exercicios\Index.g.cshtml.cs
+C:\Users\dnascimento\Desktop\estudos_Csharp\Asp Net Core MVC\Projetos_Realizados\FichaAcademia\FichaAcademia\obj\Debug\netcoreapp2.1\Razor\Views\Professores\Create.g.cshtml.cs
+C:\Users\dnascimento\Desktop\estudos_Csharp\Asp Net Core MVC\Projetos_Realizados\FichaAcademia\FichaAcademia\obj\Debug\netcoreapp2.1\Razor\Views\Professores\Edit.g.cshtml.cs
+C:\Users\dnascimento\Desktop\estudos_Csharp\Asp Net Core MVC\Projetos_Realizados\FichaAcademia\FichaAcademia\obj\Debug\netcoreapp2.1\Razor\Views\Professores\Index.g.cshtml.cs
