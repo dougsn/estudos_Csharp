@@ -1,6 +1,9 @@
+
+
 // Tudo inicia a partir do builder
 
 using AppModelo.Data;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,7 +16,10 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddTransient<IPedidoRepository, PedidoRepository>();
 
+// Configurando o DbContext
 
+builder.Services.AddDbContext<MeuDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("MeuDbContext")));
 
 // Realizando o buid das configurações que resultará na App
 
