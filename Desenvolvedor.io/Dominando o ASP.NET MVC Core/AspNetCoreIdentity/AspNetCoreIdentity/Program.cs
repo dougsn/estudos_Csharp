@@ -1,4 +1,5 @@
 using AspNetCoreIdentity.Areas.Identity.Data;
+using AspNetCoreIdentity.Extensions;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -26,7 +27,21 @@ builder.Services.AddDbContext<AspNetCoreIdentityContext>(options =>
 
 // Adicionando configuração padrão do Identity
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+    .AddRoles<IdentityRole>()
     .AddEntityFrameworkStores<AspNetCoreIdentityContext>();
+
+// Configurando as Claims
+
+builder.Services.AddAuthorization(options =>
+{
+
+    options.AddPolicy("PodeExcluir", policy => policy.RequireClaim("PodeExcluir")); // Configurando a CLAIM de forma unitária/estática
+    options.AddPolicy("PodeLer", policy => policy.Requirements.Add(new PermissaoNecessaria("PodeLer")));
+    options.AddPolicy("PodeEscrever", policy => policy.Requirements.Add(new PermissaoNecessaria("PodeEscrever")));
+
+});
+
+builder.Services.AddSingleton<IAuthorizationHandler, PermissaoNecessariaHandler>(); // Realizando a injeção de dependência 
 
 // Adicionando Autorizações personalizadas por policies
 
