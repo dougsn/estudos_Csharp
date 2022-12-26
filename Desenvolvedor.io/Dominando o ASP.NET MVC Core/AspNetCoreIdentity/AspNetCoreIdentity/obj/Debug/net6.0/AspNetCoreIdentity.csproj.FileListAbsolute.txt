@@ -280,3 +280,5 @@ C:\Users\dnascimento\Desktop\estudos_Csharp\Desenvolvedor.io\Dominando o ASP.NET
 C:\Users\dnascimento\Desktop\estudos_Csharp\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\dnascimento\Desktop\estudos_Csharp\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\dnascimento\Desktop\estudos_Csharp\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\dnascimento\Desktop\estudos_Csharp\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\net6.0\appsettings.Production.json
+C:\Users\dnascimento\Desktop\estudos_Csharp\Desenvolvedor.io\Dominando o ASP.NET MVC Core\AspNetCoreIdentity\AspNetCoreIdentity\bin\Debug\net6.0\appsettings.Staging.json
