@@ -1,0 +1,12 @@
+C:\Users\dnascimento\Desktop\estudos_Csharp\Desenvolvedor.io\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.deps.json
+C:\Users\dnascimento\Desktop\estudos_Csharp\Desenvolvedor.io\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.dll
+C:\Users\dnascimento\Desktop\estudos_Csharp\Desenvolvedor.io\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\net6.0\DevIO.Business.pdb
+C:\Users\dnascimento\Desktop\estudos_Csharp\Desenvolvedor.io\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.csproj.AssemblyReference.cache
+C:\Users\dnascimento\Desktop\estudos_Csharp\Desenvolvedor.io\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnascimento\Desktop\estudos_Csharp\Desenvolvedor.io\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\dnascimento\Desktop\estudos_Csharp\Desenvolvedor.io\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.AssemblyInfo.cs
+C:\Users\dnascimento\Desktop\estudos_Csharp\Desenvolvedor.io\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\dnascimento\Desktop\estudos_Csharp\Desenvolvedor.io\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.dll
+C:\Users\dnascimento\Desktop\estudos_Csharp\Desenvolvedor.io\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net6.0\refint\DevIO.Business.dll
+C:\Users\dnascimento\Desktop\estudos_Csharp\Desenvolvedor.io\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net6.0\DevIO.Business.pdb
+C:\Users\dnascimento\Desktop\estudos_Csharp\Desenvolvedor.io\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\net6.0\ref\DevIO.Business.dll

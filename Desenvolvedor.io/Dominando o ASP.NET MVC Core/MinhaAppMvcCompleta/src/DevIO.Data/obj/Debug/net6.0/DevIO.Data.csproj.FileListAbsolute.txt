@@ -10,3 +10,6 @@ C:\Users\dnascimento\Desktop\estudos_Csharp\Desenvolvedor.io\Dominando o ASP.NET
 C:\Users\dnascimento\Desktop\estudos_Csharp\Desenvolvedor.io\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net6.0\refint\DevIO.Data.dll
 C:\Users\dnascimento\Desktop\estudos_Csharp\Desenvolvedor.io\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.pdb
 C:\Users\dnascimento\Desktop\estudos_Csharp\Desenvolvedor.io\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net6.0\ref\DevIO.Data.dll
+C:\Users\dnascimento\Desktop\estudos_Csharp\Desenvolvedor.io\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.dll
+C:\Users\dnascimento\Desktop\estudos_Csharp\Desenvolvedor.io\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.pdb
+C:\Users\dnascimento\Desktop\estudos_Csharp\Desenvolvedor.io\Dominando o ASP.NET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CopyComplete
