@@ -18,7 +18,7 @@ namespace DevIO.Data.Context
 
         public DbSet<Fornecedor> Fornecedores { get; set; }
 
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
+          protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             // Retirando a possibilidade do entity setar a propriedade como nvarchar
             foreach (var property in modelBuilder.Model.GetEntityTypes()

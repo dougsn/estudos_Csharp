@@ -32,7 +32,7 @@ namespace DevIO.Data.Mappings
                 .HasForeignKey(p => p.FornecedorId); 
                 
 
-            builder.ToTable("Fornecedores");
+            builder.ToTable("Fornecedores"); 
         }
     }
 
