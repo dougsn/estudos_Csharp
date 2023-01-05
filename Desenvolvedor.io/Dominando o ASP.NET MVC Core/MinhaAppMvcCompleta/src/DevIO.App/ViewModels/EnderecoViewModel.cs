@@ -35,6 +35,6 @@ namespace DevIO.App.ViewModels
         public string Estado { get; set; }
 
         [HiddenInput] // Utilizado para o Scaffold criar esse campo com o type="hidden"
-        public FornecedorViewModel Fornecedor { get; set; }
+        public Guid FornecedorId { get; set; }
     }
 }
