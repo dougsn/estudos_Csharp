@@ -58,10 +58,21 @@ namespace DevIO.App.Controllers
             // Verificando se o Objeto é nulo
             if (!ModelState.IsValid) return View(produtoViewModel);
 
+
+            // Realizando o Upload da Imagem
+            var imgPrefixo = Guid.NewGuid() + "_";
+            if (!await UploadArquivo(produtoViewModel.ImagemUpload, imgPrefixo))
+            {
+                return View(produtoViewModel); 
+            }
+
+            // Populando a propriedade Imagem (que é populado no banco) com os dados do ImagemUpload tratado.
+            produtoViewModel.Imagem = imgPrefixo + produtoViewModel.ImagemUpload.FileName;
+
             // Mapeando o Produto com o Modelo e persistindo na base de dados.
             await _produtoRepository.Adicionar(_mapper.Map<Produto>(produtoViewModel));
 
-            return View(produtoViewModel);
+            return RedirectToAction("Index");
         }
 
         // GET: Produtos/Edit/5
@@ -86,12 +97,36 @@ namespace DevIO.App.Controllers
         {
             // Verificando se o ID do objeto é igual ao que foi passado por parâmetro
             if (id != produtoViewModel.Id) return NotFound();
-          
+
+
+            // Indo no Banco para poder pegar o Produto com as informações completas e populando o objeto do formulario e vice e versa
+            var produtoAtualizacao = await ObterProduto(id);
+            produtoViewModel.Fornecedor = produtoAtualizacao.Fornecedor;
+            produtoViewModel.Imagem = produtoAtualizacao.Imagem;
+
              // Verificando se o objeto é valido ou não
             if (!ModelState.IsValid) return View(produtoViewModel);
 
-            // Mapeando a model, para persistir na base de dados o objeto pego na VIEW
-            await _produtoRepository.Atualizar(_mapper.Map<Produto>(produtoViewModel));
+            // Atualizando a imagem
+            if (produtoViewModel.ImagemUpload != null)
+            {
+                var imgPrefixo = Guid.NewGuid() + "_";
+                if (!await UploadArquivo(produtoViewModel.ImagemUpload, imgPrefixo))
+                {
+                    return View(produtoViewModel);
+                }
+                produtoAtualizacao.Imagem = imgPrefixo + produtoViewModel.ImagemUpload.FileName;
+            }
+
+            // Realizando a Edição de Forma segura
+            produtoAtualizacao.Nome = produtoViewModel.Nome;
+            produtoAtualizacao.Descricao = produtoViewModel.Descricao;
+            produtoAtualizacao.Valor = produtoViewModel.Valor;
+            produtoAtualizacao.Ativo = produtoViewModel.Ativo;
+
+
+            // Mapeando a model, para persistir na base de dados o objeto pego na VIEW / Atualizado
+            await _produtoRepository.Atualizar(_mapper.Map<Produto>(produtoAtualizacao));
            
             return RedirectToAction("Index");
         }
@@ -137,12 +172,36 @@ namespace DevIO.App.Controllers
         }
 
         private async Task<ProdutoViewModel> PopularFornecedores(ProdutoViewModel produto)
-        {
-            
+        {           
 
             // A partir de qualquer view model que seja passada, é populado os fornecedores naquela viewmodel
             produto.Fornecedores = _mapper.Map<IEnumerable<FornecedorViewModel>>(await _fornecedorRepository.ObterTodos());
             return produto;
+        }
+
+        // Metodo responsavel por realizar as verificações do upload da imagem.
+        private async Task<bool> UploadArquivo(IFormFile arquivo, string imgPrefixo)
+        {
+            if (arquivo.Length <= 0) return false;
+
+            // Criando o path para o upload da imagem
+            var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/imagens", imgPrefixo + arquivo.FileName);
+
+            // Verificando se o nome da existe
+            if (System.IO.File.Exists(path))
+            {
+                ModelState.AddModelError(string.Empty, "Já existe um arquivo com este nome!");
+                return false;
+            }
+
+            // Efetivando o Upload da imagem com o FileStream
+            using (var stream = new FileStream(path, FileMode.Create))
+            {
+                await arquivo.CopyToAsync(stream);
+            }
+
+            return true;
+
         }
     }
 }
